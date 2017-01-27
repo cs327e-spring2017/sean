@@ -1,4 +1,4 @@
-#Team Sean
+#Team Example
 
 CS327E Elements of Databases Project Repository.
 
