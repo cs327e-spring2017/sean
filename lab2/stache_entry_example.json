@@ -1,0 +1,8 @@
+{
+  "aws-username": "Admin",
+  "aws-password": "password",
+  "aws-console-link": "https://865366781946.signin.aws.amazon.com/console",
+  "rds-endpoint-link": "sean.cbdyaoty0djb.us-west-2.rds.amazonaws.com",
+  "rds-username": "sean",
+  "rds-password": "abcd1234"
+}
