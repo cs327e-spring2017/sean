@@ -1,4 +1,6 @@
 {
   "repository-link": "https://github.com/cs327e-spring2017/sean.git",
-  "commit-id": "6ca6f695bca36f7fc2c33485d1080ae30f8b9928"
+  "commit-id": "78789c1797d2ac780e6262c052d8f655e3a92e22",
+  "stache-endpoint": "/api/v1/item/read/62021",
+  "stache-read-key": "ec1f815a603234eb8c5e1c02b474839f0b6d3b9e76b103f1ab0463b655e6661b"
 }
