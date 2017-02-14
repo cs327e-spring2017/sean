@@ -2,6 +2,9 @@
 
 CS327E Elements of Databases Project Repository.
 
-###Group Members
+Sean Wang
+syw279
+seanyusa
 
-- Sean Wang
+RDS Instance: Sean
+Version 9.6.1
