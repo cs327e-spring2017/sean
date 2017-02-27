@@ -1,7 +1,7 @@
 import sys
 from queries import *
 
-COMMAND_COUNT = 5
+COMMAND_COUNT = 4
 running = True
 
 cursor = connect()
@@ -20,7 +20,7 @@ while running:
 
 	try:
 		choice = int(choice)
-		if choice > COMMAND_COUNT:
+		if choice > COMMAND_COUNT or choice <= 0:
 			raise ValueError  
 	except ValueError as err:
 		print('Not a Valid Command.')
